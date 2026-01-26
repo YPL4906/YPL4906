@@ -11,7 +11,7 @@ Siempre aprendiendo, siempre creando. ¡Bienvenid@!
 
 ### 💡 Sobre mí
 
-- 🔭 Actualmente trabajando en: **[Terminando Grado de DAM y curso de FullStack en 4GeeksAcademy]**
+- 🔭 Actualmente trabajando en: **[H.E.S Universae]**
 - 🌱 Aprendiendo sobre: **[Base de Datos, Frameworks y diferente herramientas]**
 - 🤝 Buscando colaborar en: **proyectos con impacto y tecnologías desafiantes**
 - 💬 Pregúntame sobre: **JavaScript, Node.js, React, APIs, bases de datos...**
